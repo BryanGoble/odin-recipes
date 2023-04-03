@@ -9,7 +9,7 @@ body {
     align-items: center;
 }
 
-body > p {
+body p {
     width: 60%;
 }
 
@@ -41,7 +41,6 @@ h2 {
 
 .card:hover {
     flex: 2;
-    /* background-color: rgb(44, 82, 209); */
 }
 
 .indexImg {
@@ -50,7 +49,7 @@ h2 {
     overflow-y: hidden;
 }
 
-.indexImg > img {
+.indexImg img {
     border-radius: 20px;
     height: 100%;
     width: 100%;
@@ -74,7 +73,7 @@ div > a {
     color: #f8f8f1;
 }
 
-div > p {
+div p {
     color: #090C09;
 }
 
